@@ -1,6 +1,9 @@
 {
-  "injectorVersion": "1.3",
-  "pluginsVersion": "2.1",
-  "injectorUrl": "https://github.com/USER/REPO/releases/latest/download/injector.dll",
-  "pluginsUrl": "https://github.com/USER/REPO/releases/latest/download/plugins.zip"
+  "injectorVersion": "1.0.2",
+  "injectorUrl": "https://github.com/shadovvgamer/RotHelper/releases/latest/download/injector.dll",
+  "injectorSha256": "PUT_SHA256_HERE",
+
+  "pluginsVersion": "1.0.1",
+  "pluginsUrl": "https://github.com/shadovvgamer/RotHelper/releases/latest/download/plugins.zip",
+  "pluginsSha256": "PUT_SHA256_OF_ZIP"
 }
