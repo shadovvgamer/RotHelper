@@ -1,0 +1,6 @@
+{
+  "injectorVersion": "1.3",
+  "pluginsVersion": "2.1",
+  "injectorUrl": "https://github.com/USER/REPO/releases/latest/download/injector.dll",
+  "pluginsUrl": "https://github.com/USER/REPO/releases/latest/download/plugins.zip"
+}
